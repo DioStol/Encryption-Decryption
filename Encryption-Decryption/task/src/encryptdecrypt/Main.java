@@ -10,7 +10,7 @@ public class Main {
             HashMap props = appendArguments(args);
             new MessageProvider().build(props);
         }catch (Exception e){
-            System.out.println("Error");
+            System.err.println(e.getMessage());
         }
 
     }

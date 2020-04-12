@@ -1,6 +1,7 @@
 package encryptdecrypt;
 
-import java.util.HashMap;
+import encryptdecrypt.methods.Message;
+
 import java.util.Map;
 
 /**

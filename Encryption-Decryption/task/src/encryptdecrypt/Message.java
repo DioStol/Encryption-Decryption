@@ -25,7 +25,7 @@ abstract class Message {
                 props.put("data", readFile(file));
             }
         }catch (Exception e){
-            System.out.println("Error");
+            System.err.println(e.getMessage());
         }
     }
 
@@ -55,7 +55,7 @@ abstract class Message {
             byte[] bytes = data.getBytes();
             out.write(bytes);
         }catch (Exception e){
-            System.out.println("Error");
+            System.err.println(e.getMessage());
         }
     }
 }
