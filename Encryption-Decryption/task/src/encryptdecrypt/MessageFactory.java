@@ -12,7 +12,7 @@ abstract class MessageFactory {
     void build(Map props){
         Message message = set(props);
         if (message == null) {
-            System.out.println("Error");
+            System.err.println(new NullPointerException().getMessage());
         }
         try {
             message.get();
