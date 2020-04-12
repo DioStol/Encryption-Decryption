@@ -1,9 +1,4 @@
 package encryptdecrypt;
-
-import encryptdecrypt.methods.Alphabetic;
-import encryptdecrypt.methods.Message;
-import encryptdecrypt.methods.MessageFactory;
-
 import java.util.Map;
 
 /**
@@ -19,7 +14,7 @@ class MessageProvider extends MessageFactory {
             case "unicode":
                 return new Unicode(props);
             default:
-                return new NoService();
+                return new NoService(props);
         }
     }
 }

@@ -1,7 +1,5 @@
 package encryptdecrypt;
 
-import encryptdecrypt.methods.Message;
-
 import java.util.Map;
 
 /**
