@@ -1,0 +1,11 @@
+
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¢ØÒåúÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¢ØÒåúÿÿÿÿ
+n
+java:S1192j"SUse already-defined constant 'ERROR_MESSAGE' instead of duplicating its value here.(êÓæøùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬±¨™8ÊİŒÓ–.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(‹úÄ·8ÊİŒÓ–.
+X
+java:S1197"8Move the array designator from the variable to the type.(¶èê£ûÿÿÿÿ8ÊİŒÓ–.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(¢ØÒåúÿÿÿÿ8ÊİŒÓ–.
