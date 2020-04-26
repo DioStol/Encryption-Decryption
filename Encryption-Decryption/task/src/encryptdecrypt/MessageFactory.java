@@ -3,7 +3,7 @@ package encryptdecrypt;
 import java.util.Map;
 
 /**
- * @author Dionysios Stolis 4/12/2020 <dstolis@b-open.com>
+ * @author Dionysios Stolis 4/12/2020
  */
 abstract class MessageFactory {
 
