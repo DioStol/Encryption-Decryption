@@ -3,7 +3,7 @@ package encryptdecrypt;
 import java.util.Map;
 
 /**
- * @author Dionysios Stolis 4/13/2020 <dstolis@b-open.com>
+ * @author Dionysios Stolis 4/13/2020
  */
 public class NoService extends Message {
 
