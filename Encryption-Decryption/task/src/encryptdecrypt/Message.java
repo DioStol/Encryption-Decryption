@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Map;
 
 /**
- * @author Dionysios Stolis 4/10/2020 <dstolis@b-open.com>
+ * @author Dionysios Stolis 4/10/2020 
  */
 abstract class Message {
 
